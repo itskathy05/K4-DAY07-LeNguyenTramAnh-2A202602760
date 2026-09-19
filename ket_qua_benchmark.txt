@@ -1,0 +1,279 @@
+Query: Học bổng Green Tech 2026 có bao nhiêu suất, giá trị bao nhiêu và kéo dài bao lâu?
+Metadata filter: None
+Top 1: score=0.803126
+  chunk_id=usth-green-tech-scholarship-2026#0
+  doc_id=usth-green-tech-scholarship-2026
+  source_url=https://usth.edu.vn/en/green-tech-scholarship-internship-2026-11897/
+  content=# Green Tech Scholarship and Internship 2026
+
+An opportunity to gain hands-on internship experience while receiving a scholarship at GREEN IN – a pioneer in green transition and Net Zero solutions 🌱
+
+## Scholarship Value
+
+04 scholarships | VND 18,000,000 / 6 months
+
+## Eligibility and Internship Details
+
+– Eligibility: Students majoring in Electrical Engineering & Renewable Energy; Applied Environmental Sciences
+
+– Duration: 3–6 months (full-time) or 6 months (≥24 hours/week, flexible hybrid: on
+Top 2: score=0.656499
+  chunk_id=usth-current-student-scholarship-2025-2026#5
+  doc_id=usth-current-student-scholarship-2025-2026
+  source_url=https://usth.edu.vn/tiep-nhan-ho-so-dang-ky-hoc-bong-nam-hoc-2025-2026-danh-cho-sinh-vien-hoc-vien-viet-nam-dang-hoc-tai-truong-26801/
+  content=n cứu, trung tâm thuộc Viện Hàn Lâm KHCNVN, có hợp đồng làm việc từ 1 năm trở lên và có quyết định cử đi học của cơ quan quản lý, theo học các chương trình đào tạo thạc sĩ và tiến sĩ của Trường.
+
+Học bổng được xét cho năm học đầu tiên. Từ năm học thứ hai, để được tiếp tục duy trì mức học bổng, sinh viên cần đáp ứng yêu cầu:
+
++ Học viên thạc sĩ: đạt GPA ≥ 12/20 trở lên.
+
++ Nghiên cứu sinh: có xác nhận thực hiện đúng tiến độ đào tạo của Trường.
+
+1.7. Học bổng Hạt giống tài năng (SOT): 
+
+Sinh viên 
+Top 3: score=0.656251
+  chunk_id=usth-scholarship-portal-2026-2027#0
+  doc_id=usth-scholarship-portal-2026-2027
+  source_url=https://erp.usth.edu.vn/students
+  content=# USTH Student Scholarship Portal 2026-2027
+
+## Học bổng khuyến khích học tập / Merit Scholarship (MS)
+
+Năm học: 2026-2027
+
+Đối tượng: PhD
+
+Loại: Học bổng Tiến sỹ
+
+Hạn nộp: 19/09/2026
+
+## Học bổng Tiếp nối / Pathway to Success Scholarship (PS)
+
+Năm học: 2026-2027
+
+Đối tượng: Tân ThS, Tân NCS
+
+Loại: Học bổng Tiếp nối
+
+Hạn nộp: 20/09/2026
+
+## Học bổng Đồng Hành / Support Scholarship (SS)
+
+Năm học: 2026-2027
+
+Đối tượng: PhD
+
+Loại: Học bổng Tiến sỹ
+
+Hạn nộp: 31/12/2026
+
+Query: Hạn cuối nộp hồ sơ học bổng Green Tech 2026 là ngày nào và thời gian dự kiến bắt đầu là khi nào?
+Metadata filter: None
+Top 1: score=0.727291
+  chunk_id=usth-green-tech-scholarship-2026#0
+  doc_id=usth-green-tech-scholarship-2026
+  source_url=https://usth.edu.vn/en/green-tech-scholarship-internship-2026-11897/
+  content=# Green Tech Scholarship and Internship 2026
+
+An opportunity to gain hands-on internship experience while receiving a scholarship at GREEN IN – a pioneer in green transition and Net Zero solutions 🌱
+
+## Scholarship Value
+
+04 scholarships | VND 18,000,000 / 6 months
+
+## Eligibility and Internship Details
+
+– Eligibility: Students majoring in Electrical Engineering & Renewable Energy; Applied Environmental Sciences
+
+– Duration: 3–6 months (full-time) or 6 months (≥24 hours/week, flexible hybrid: on
+Top 2: score=0.637948
+  chunk_id=usth-green-tech-scholarship-2026#1
+  doc_id=usth-green-tech-scholarship-2026
+  source_url=https://usth.edu.vn/en/green-tech-scholarship-internship-2026-11897/
+  content=) or 6 months (≥24 hours/week, flexible hybrid: online + offline)
+
+– Focus areas: renewable energy, environmental issues, carbon credits, green transition
+
+## Important Dates and Application
+
+📅 Expected start: April 2026
+
+⏰ Application deadline: March 23, 2026
+
+👉 Apply now: https://forms.gle/q4h1nVCT9VB63Bmg6
+
+## Contact
+
+📩 Contact: Student Affairs Office (Room 306-2H)
+
+Email: student.services@usth.edu.vn
+Top 3: score=0.625799
+  chunk_id=usth-scholarship-application-2026#0
+  doc_id=usth-scholarship-application-2026
+  source_url=https://usth.edu.vn/en/announcement-on-scholarship-application-submission-academic-year-2026-2027-wave-1-12694/
+  content=# Scholarship Application Submission 2026-2027 Wave 1
+
+Announcement On Scholarship Application Submission, Academic year 2026–2027 (wave 1)
+
+In the academic year 2026–2027, the University of Science and Technology of Hanoi (USTH) plans to allocate a scholarship fund of VND 16 billion to award scholarships to undergraduate students, master’s students, and doctoral candidates.
+
+USTH hereby announces the application process for the FRESHMAN Scholarship Program for the academic year 2026–2027 for ca
+
+Query: Quy trình xét học bổng và hỗ trợ tài chính của USTH gồm những bước nào?
+Metadata filter: None
+Top 1: score=0.711634
+  chunk_id=usth-scholarship-procedure#0
+  doc_id=usth-scholarship-procedure
+  source_url=https://usth.edu.vn/en/procedures-for-scholarships-and-financial-aids-support-3632/
+  content=# Procedures for Scholarships and Financial Aids Support
+
+Article 8. Procedures
+
+Procedures for scholarship and financial aids support for USTH students are followed 3 steps:
+
+Step 1: widely publish and receive applications for scholarship and financial support.
+
+From October 1st to 15th, the Student Services Department announces to all students about the application procedure for scholarships and supports.
+
+Step 2: prepare proposed lists for scholarship and financial support; organize the SFA c
+Top 2: score=0.699105
+  chunk_id=usth-financial-aid-2024-2025#1
+  doc_id=usth-financial-aid-2024-2025
+  source_url=https://usth.edu.vn/en/financial-aid-award-ceremony-for-students-in-difficult-circumstances-academic-year-2024-2025-12301/
+  content=and doctoral candidates, USTH has allocated nearly VND 11 billion for academic encouragement scholarships and internship scholarships for individuals with outstanding academic achievements.
+
+In addition, with the educational philosophy of “leaving no student behind,” and with the support of generous donors and compassionate partners, USTH provides hardship scholarships and financial aid to students in difficult circumstances. This support aims to reduce financial burdens and offer encouragement,
+Top 3: score=0.643885
+  chunk_id=usth-scholarship-procedure#1
+  doc_id=usth-scholarship-procedure
+  source_url=https://usth.edu.vn/en/procedures-for-scholarships-and-financial-aids-support-3632/
+  content=olarship and financial support; organize the SFA council and issue a final decision.
+
+Within 15 days after the accepting deadline for students’ applications and proposals of Departments, the Student Services Department prepares lists and submits to the SFA council for finalization. Final decision is issued by the Rector of USTH.
+
+Step 3: announce lists of students receiving scholarships and financial aids
+
+In November, the Student Services Department and related departments are responsible for w
+
+Query: Trong năm học 2026-2027, USTH dự kiến dành bao nhiêu tiền cho quỹ học bổng và áp dụng cho những nhóm người học nào?
+Metadata filter: None
+Top 1: score=0.711597
+  chunk_id=usth-scholarship-application-2026#0
+  doc_id=usth-scholarship-application-2026
+  source_url=https://usth.edu.vn/en/announcement-on-scholarship-application-submission-academic-year-2026-2027-wave-1-12694/
+  content=# Scholarship Application Submission 2026-2027 Wave 1
+
+Announcement On Scholarship Application Submission, Academic year 2026–2027 (wave 1)
+
+In the academic year 2026–2027, the University of Science and Technology of Hanoi (USTH) plans to allocate a scholarship fund of VND 16 billion to award scholarships to undergraduate students, master’s students, and doctoral candidates.
+
+USTH hereby announces the application process for the FRESHMAN Scholarship Program for the academic year 2026–2027 for ca
+Top 2: score=0.697875
+  chunk_id=usth-financial-aid-2024-2025#1
+  doc_id=usth-financial-aid-2024-2025
+  source_url=https://usth.edu.vn/en/financial-aid-award-ceremony-for-students-in-difficult-circumstances-academic-year-2024-2025-12301/
+  content=and doctoral candidates, USTH has allocated nearly VND 11 billion for academic encouragement scholarships and internship scholarships for individuals with outstanding academic achievements.
+
+In addition, with the educational philosophy of “leaving no student behind,” and with the support of generous donors and compassionate partners, USTH provides hardship scholarships and financial aid to students in difficult circumstances. This support aims to reduce financial burdens and offer encouragement,
+Top 3: score=0.695111
+  chunk_id=usth-scholarship-portal-2026-2027#0
+  doc_id=usth-scholarship-portal-2026-2027
+  source_url=https://erp.usth.edu.vn/students
+  content=# USTH Student Scholarship Portal 2026-2027
+
+## Học bổng khuyến khích học tập / Merit Scholarship (MS)
+
+Năm học: 2026-2027
+
+Đối tượng: PhD
+
+Loại: Học bổng Tiến sỹ
+
+Hạn nộp: 19/09/2026
+
+## Học bổng Tiếp nối / Pathway to Success Scholarship (PS)
+
+Năm học: 2026-2027
+
+Đối tượng: Tân ThS, Tân NCS
+
+Loại: Học bổng Tiếp nối
+
+Hạn nộp: 20/09/2026
+
+## Học bổng Đồng Hành / Support Scholarship (SS)
+
+Năm học: 2026-2027
+
+Đối tượng: PhD
+
+Loại: Học bổng Tiến sỹ
+
+Hạn nộp: 31/12/2026
+
+Query: Đối tượng sinh viên nào được áp dụng các quy định học bổng năm 2026 của USTH?
+Metadata filter: {'audience': 'student'}
+Top 1: score=0.748432
+  chunk_id=usth-scholarship-portal-2026-2027#0
+  doc_id=usth-scholarship-portal-2026-2027
+  source_url=https://erp.usth.edu.vn/students
+  content=# USTH Student Scholarship Portal 2026-2027
+
+## Học bổng khuyến khích học tập / Merit Scholarship (MS)
+
+Năm học: 2026-2027
+
+Đối tượng: PhD
+
+Loại: Học bổng Tiến sỹ
+
+Hạn nộp: 19/09/2026
+
+## Học bổng Tiếp nối / Pathway to Success Scholarship (PS)
+
+Năm học: 2026-2027
+
+Đối tượng: Tân ThS, Tân NCS
+
+Loại: Học bổng Tiếp nối
+
+Hạn nộp: 20/09/2026
+
+## Học bổng Đồng Hành / Support Scholarship (SS)
+
+Năm học: 2026-2027
+
+Đối tượng: PhD
+
+Loại: Học bổng Tiến sỹ
+
+Hạn nộp: 31/12/2026
+Top 2: score=0.712343
+  chunk_id=usth-current-student-scholarship-2025-2026#1
+  doc_id=usth-current-student-scholarship-2025-2026
+  source_url=https://usth.edu.vn/tiep-nhan-ho-so-dang-ky-hoc-bong-nam-hoc-2025-2026-danh-cho-sinh-vien-hoc-vien-viet-nam-dang-hoc-tai-truong-26801/
+  content=025-2026 đối với sinh viên, học viên và nghiên cứu sinh đang học tại trường như sau:
+
+## Đối tượng và tiêu chí nộp học bổng
+
+1.1. Học bổng khuyến khích học tập (MS):
+
+– Sinh viên lên B1/ B2/ B3, học viên lên M2 đạt điểm GPA ≥ 15.0/20 của năm học 2024-2025 (chấp nhận tối đa 01 môn thi lại, điểm xét học bổng là điểm trước khi thi lại).
+
+– Nghiên cứu sinh đạt thành tích trong hoạt động nghiên cứu
+
+1.2. Học bổng Kiến tạo (SFI)
+
+– Sinh viên, học viên thuộc các ngành: Toán Ứng dụng, Khoa học Môi trườn
+Top 3: score=0.708518
+  chunk_id=usth-scholarship-application-2026#0
+  doc_id=usth-scholarship-application-2026
+  source_url=https://usth.edu.vn/en/announcement-on-scholarship-application-submission-academic-year-2026-2027-wave-1-12694/
+  content=# Scholarship Application Submission 2026-2027 Wave 1
+
+Announcement On Scholarship Application Submission, Academic year 2026–2027 (wave 1)
+
+In the academic year 2026–2027, the University of Science and Technology of Hanoi (USTH) plans to allocate a scholarship fund of VND 16 billion to award scholarships to undergraduate students, master’s students, and doctoral candidates.
+
+USTH hereby announces the application process for the FRESHMAN Scholarship Program for the academic year 2026–2027 for ca
